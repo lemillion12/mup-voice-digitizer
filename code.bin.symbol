@@ -1,0 +1,19 @@
+< THE SYMBOL TABLE >  code.bin  --  emu8086 assembler version: 4.08 
+===================================================================================================
+Name                     	Offset    	Size      	Type      	Segment   
+===================================================================================================
+TABLE_D                  	00400     	1         	VAR       	(NOSEG)   
+TABLE_K                  	0040B     	1         	VAR       	(NOSEG)   
+ST1                      	00416     	-1        	LABEL     	(NOSEG)   
+CHK1                     	0043F     	-1        	LABEL     	(NOSEG)   
+Y10                      	00445     	-1        	LABEL     	(NOSEG)   
+EOC                      	0044F     	-1        	LABEL     	(NOSEG)   
+TRNS1                    	00462     	-1        	LABEL     	(NOSEG)   
+CHK2                     	00473     	-1        	LABEL     	(NOSEG)   
+C                        	00483     	-1        	LABEL     	(NOSEG)   
+D                        	00485     	-1        	LABEL     	(NOSEG)   
+E                        	0048D     	-1        	LABEL     	(NOSEG)   
+===================================================================================================
+[ 4/21/2017  --  9:02:44 PM ] 
+< END >
+ 
